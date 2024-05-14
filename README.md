@@ -42,7 +42,10 @@ pip install -r requirements.txt
 ``
 
 2、ffmpeg安装  
-ffmpeg按照后添加到环境变量中，自行搜索安装ffmpeg。
+ffmpeg按照后添加到环境变量中，自行搜索安装ffmpeg。我的教程如下：
+
+无敌强的英文视频一键中文配音的开源项目Pytvzhen介绍 - 强化学徒的文章 - 知乎
+https://zhuanlan.zhihu.com/p/696057198
 
 3、pytorch安装  
 在[点击这里](https://pytorch.org/get-started/locally/)，选择合适的安装版本，**必须要选择gpu版！！！！** 原因是作者偷懒没有做cpu方案，其实如果你愿意，改几行源码实现在CPU上跑应该也不难。
